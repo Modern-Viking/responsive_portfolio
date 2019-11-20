@@ -1,3 +1,20 @@
 body{
     background-image: url("../../assets/images/christmas-dark.png");
     background-color:#801414;
+}
+.container{
+    background:#ffffff;
+}
+
+#logo{
+    background:teal;
+    padding:1.5%;
+}
+
+#footer{
+    padding:1.5%;
+}
+
+#foot{
+    margin:auto;
+}
