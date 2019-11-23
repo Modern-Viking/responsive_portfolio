@@ -5,6 +5,10 @@ body{
 .container{
     background:#ffffff;
 }
+img{
+    height:400px;
+    width:300px;
+}
 
 #logo{
     background:teal;
@@ -13,8 +17,10 @@ body{
 
 #footer{
     padding:1.5%;
+    border: 2px #801414 solid;
 }
 
 #foot{
     text-align:center;
+    margin:0; 
 }
