@@ -1,20 +1,31 @@
 body{
     background-image: url("../../assets/images/christmas-dark.png");
     background-color:#801414;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:1.5em;
+    color:#777777;
 }
 .container{
+    padding:0;
+}
+
+.nav-link{
+    color:#777777;
+}
+
+.mid-container{
     background:#ffffff;
 }
 
 hr{
     width: 80%;
-    height:2px;
 }
 
 img{
     height:400px;
     width:300px;
     float:left;
+    padding:5px;
 }
 
 #logo{
@@ -25,9 +36,11 @@ img{
 #footer{
     padding:1.5%;
     border: 2px #801414 solid;
+    background:#666666;
 }
 
 #foot{
     text-align:center;
-    margin:0; 
+    margin:0;
+    color: #ffffff;
 }
