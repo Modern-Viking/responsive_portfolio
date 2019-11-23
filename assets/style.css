@@ -21,12 +21,13 @@ hr{
     width: 80%;
 }
 
-img{
+#mypic{
     height:400px;
     width:300px;
     float:left;
     padding:5px;
 }
+
 
 #logo{
     background:teal;
